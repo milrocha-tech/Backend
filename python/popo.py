@@ -1,4 +1,0 @@
-echo funcioeqrfwerrqe xcxccvxvcxcsadsasaddsads
-
-
-jhjgh
