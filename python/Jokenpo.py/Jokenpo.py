@@ -27,9 +27,9 @@ if jogador == computador:
 elif ((jogador == "pedra" and computador == "tesoura") or
           (jogador == "papel" and computador == "pedra") or
           (jogador == "tesoura" and computador == "papel")):
-        print("Resultado: Você venceu, Divas fazem assim!")
+        print("Resultado: Você venceu!")
 else:
-        print("Resultado: Você perdeu ótario")
+        print("Resultado: Você perdeu, tente novamente!")
 
 
                                                                                                                                                                                                                                                      
